@@ -1,0 +1,19 @@
+{
+  "format": "arenahub-fingerprint-bank",
+  "manifestVersion": 1,
+  "sequence": 1,
+  "bankVersion": "2026.11.01-smoke1",
+  "createdAt": "2026-11-01T02:40:49.211Z",
+  "engineSchema": "arenahub-lm-detector-unified-v1",
+  "minExtensionVersion": "9.33.0",
+  "payload": {
+    "path": "bank.json",
+    "bytes": 1462275,
+    "sha256": "a403437ed3d48e658f0e9391c021f9f2204cb5357f8ce5eb0fda171434171395"
+  },
+  "signature": {
+    "algorithm": "ECDSA-P256-SHA256",
+    "keyId": "hj52htrr-bank-2026",
+    "value": "FU1K5h02qY0TOctLAUXZTaIQggsgAIwoe7PLI45y-qSeeQZ1LaK_9lLB2cfc-wPI-OqEycoP4vNbS64b5BEPQA"
+  }
+}
